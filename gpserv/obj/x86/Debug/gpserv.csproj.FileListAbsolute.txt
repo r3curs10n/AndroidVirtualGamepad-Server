@@ -1,0 +1,6 @@
+c:\users\shreyas\documents\visual studio 2010\Projects\gpserv\gpserv\bin\Debug\gpserv.exe
+c:\users\shreyas\documents\visual studio 2010\Projects\gpserv\gpserv\bin\Debug\gpserv.pdb
+c:\users\shreyas\documents\visual studio 2010\Projects\gpserv\gpserv\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\shreyas\documents\visual studio 2010\Projects\gpserv\gpserv\obj\x86\Debug\gpserv.exe
+c:\users\shreyas\documents\visual studio 2010\Projects\gpserv\gpserv\obj\x86\Debug\gpserv.pdb
+C:\Users\Shreyas\Documents\Visual Studio 2010\Projects\gpserv\gpserv\bin\Debug\vJoyWrapper.dll
